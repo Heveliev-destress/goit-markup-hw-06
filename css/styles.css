@@ -606,8 +606,6 @@ justify-content: center;
     }
     .footer-box-form{
         width: 100%;
-        
-        /* margin-left: auto; */
     }
     .footer-form{
         display: flex;
@@ -963,7 +961,8 @@ transition:fill var(--transition-duration) var(--transition-timing-function) ;
     letter-spacing: 0.06em;
     border:1px solid var(--modal-btn-border-color) ;
     border-radius: 4px;
-    padding: 10px 52px
+    padding: 10px 52px;
+    transition: box-shadow var(--transition-duration) var(--transition-timing-function);
   }
   .modal-btn-submit:hover,
   .modal-btn-submit:focus{
