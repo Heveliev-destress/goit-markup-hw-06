@@ -705,7 +705,7 @@ height: 0;}
 }
 .portfolio-project-box{
     max-width: 370px;
-    flex-basis: calc((100%-30)/3) ;}
+    flex-basis: calc((100%-30)/3);}
     .box-link{
         display: block;
         transition: box-shadow var(--transition-duration) var(--transition-timing-function);
