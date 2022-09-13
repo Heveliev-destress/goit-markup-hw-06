@@ -620,6 +620,7 @@ justify-content: center;
         margin-bottom: 20px;
     }
     .footer-input{
+    color: var(--text-light-color);
         padding: 15px 16px ;
         width: 358px;
         border: 1px solid var(--footer-input-border-color);
@@ -887,6 +888,7 @@ height: 0;}
     display: flex;
     align-items: center;
     margin-bottom: 30px;
+    justify-content: center;
 }
 .modal-form-policy-text{
     font-weight: 400;
